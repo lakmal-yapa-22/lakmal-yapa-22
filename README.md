@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Lakmal kumarasiri</h1>
-<h3 align="center">A Passionate Software Enginner Student</h3>
+<h3 align="center">A Passionate Software Engineer Student</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lakmal-yapa-22&label=Profile%20views&color=0e75b6&style=flat" alt="lakmal-yapa-22" /> </p>
 
 <table align="center">
