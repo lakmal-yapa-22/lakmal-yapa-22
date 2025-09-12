@@ -99,12 +99,12 @@ class SoftwareEngineer {
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,postgresql&theme=dark" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql" alt="Backend"/>
 </p>
 
 ### Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,docker,aws&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws&theme=dark" alt="Tools"/>
 </p>
 
 </div>
