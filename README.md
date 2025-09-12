@@ -94,7 +94,7 @@ class SoftwareEngineer {
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,bootstrap,tailwind,figma&theme=dark" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&theme=dark" alt="Frontend"/>
 </p>
 
 ### Backend & Database
