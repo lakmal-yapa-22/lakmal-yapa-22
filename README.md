@@ -66,7 +66,7 @@
 
 ### 🚀 Current Journey
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF"/>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="300" alt="Developer Working"/>
 
 <br><br>
 
@@ -495,10 +495,10 @@ const currentLearning = {
 
 ### 🎬 Knowledge Sources
 
-- YouTube: Test Automation University
-- Blogs: Ministry of Testing, Guru99
-- Podcasts: QA Intelligence
-- Communities: Reddit r/QualityAssurance
+- 🎥 YouTube: Test Automation University
+- 📝 Blogs: Ministry of Testing, Guru99
+- 🎙️ Podcasts: QA Intelligence
+- 👥 Communities: Reddit r/QualityAssurance
 
 </td>
 </tr>
@@ -512,9 +512,7 @@ const currentLearning = {
 
 ## 🤝 Let's Connect & Collaborate
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Coding"/>
-
-<br><br>
+<br>
 
 ### 📫 Reach Out to Me
 
@@ -531,9 +529,6 @@ const currentLearning = {
   <a href="https://twitter.com/lakmal_yapa">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://wa.me/94xxxxxxxxx">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
 </p>
 
 <br>
@@ -543,22 +538,22 @@ const currentLearning = {
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/briefcase.png" width="50"/><br>
+<h3>💼</h3>
 <b>Full-time QA Roles</b><br>
 <sub>Manual Testing positions</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/contract-job.png" width="50"/><br>
+<h3>📝</h3>
 <b>Contract Projects</b><br>
 <sub>Short-term testing gigs</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/internship.png" width="50"/><br>
+<h3>🎓</h3>
 <b>QA Internships</b><br>
 <sub>Grow & learn together</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/collaboration.png" width="50"/><br>
+<h3>🤝</h3>
 <b>Collaborations</b><br>
 <sub>Open source testing</sub>
 </td>
@@ -606,7 +601,7 @@ const qaValue = {
 
 ## 💭 Daily Motivation
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Quality%20is%20never%20an%20accident%3B%20it%20is%20always%20the%20result%20of%20intelligent%20effort&author=John%20Ruskin" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
 
 <br><br>
 
@@ -626,31 +621,18 @@ const qaValue = {
 <!-- Snake Animation -->
 <div align="center">
 
-## 🐍 Contribution Activity Snake
+## 🐍 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Support Section -->
-<div align="center">
-
-## ☕ Support My Work
-
-If you find my QA insights helpful or want to support my learning journey:
-
-<a href="https://www.buymeacoffee.com/lakmalkumarasiri">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-
-</div>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer"/>
