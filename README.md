@@ -4,7 +4,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Lakmal%20Kumarasiri&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=QA%20Engineer%20|%20Manual%20Testing%20Specialist%20|%20Quality%20Guardian&descAlignY=52&descSize=20)
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=667EEA&center=true&vCenter=true&width=900&height=100&lines=Quality+Assurance+Engineer+🧪;Manual+Testing+Expert+🔍;Bug+Hunter+%26+Quality+Guardian+🛡️;iOS+%7C+Android+%7C+Web+Testing+📱;Ensuring+Excellence+Before+Release+🚀;Let's+Build+Quality+Together!+🤝" alt="Typing SVG" />
+
 
 <!-- Profile View Counter & Badges -->
 <p>
@@ -366,14 +366,6 @@ Attachments: Screenshots, logs, video
 <!-- GitHub Stats Section -->
 <div align="center">
 
-## 📊 GitHub Analytics & Activity
-
-<table>
-<tr>
-<td width="50%">
-
-### 📈 GitHub Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=lakmal-yapa-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Lakmal's%20GitHub%20Journey" alt="GitHub Stats" width="100%"/>
 
 <br><br>
 
