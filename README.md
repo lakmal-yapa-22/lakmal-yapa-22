@@ -1,226 +1,241 @@
-<!-- Dynamic Header with Particles Effect -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Lakmal%20Kumarasiri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=51&descAlign=50)
+<!-- Dynamic Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Lakmal%20Kumarasiri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20|%20Manual%20Testing%20Specialist&descAlignY=51&descAlign=50)
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Software+Engineer+Student+%F0%9F%92%BB;Java+%26+JavaScript+Enthusiast+%E2%98%95;Building+Tomorrow's+Technology+%F0%9F%9A%80;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Quality+Assurance+Engineer+🧪;Manual+Testing+Expert+🔍;Test+Cases+%7C+Bug+Reports+%7C+Jira+📋;Ensuring+Product+Quality+Before+Release+🚀;Open+to+QA+Opportunities+🤝" alt="Typing SVG" />
 </p>
 
-<!-- Profile Counter with Animated Border -->
+<!-- Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lakmal-yapa-22&label=Profile%20Views&color=667eea&style=for-the-badge&logo=eye" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/lakmal-yapa-22?label=Followers&style=for-the-badge&color=764ba2&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/lakmal-yapa-22?label=Stars&style=for-the-badge&color=667eea&logo=github" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/lakmal-yapa-22?label=Followers&style=for-the-badge&color=764ba2&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/lakmal-yapa-22?label=Stars&style=for-the-badge&color=667eea&logo=github" alt="Stars" />
 </p>
 
-<!-- About Me Section with Professional Layout -->
-<div align="center">
-  
-## 👨‍💻 About Me
+---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+## 👨‍💼 About Me – QA Engineer (Manual)
+
+<div align="center">
+
+```yaml
+Name: Lakmal Kumarasiri
+Role: QA Engineer – Manual Testing
+Location: Sri Lanka 🇱🇰
+Education: IJSE – Software Engineering
+Experience: Web & Mobile App Testing (iOS / Android)
+
+Core Focus:
+  - Manual Testing
+  - Test Case Design
+  - Bug Reporting & Tracking
+  - Live Activity Testing (iOS)
+  - Functional & Regression Testing
+```
+
+</div>
 
 ### 🎯 Professional Summary
 
-```typescript
-class SoftwareEngineer {
-  name: string = "Lakmal Kumarasiri";
-  location: string = "Sri Lanka 🇱🇰";
-  education: string = "IJSE - Software Engineering";
-  
-  currentlyLearning: string[] = [
-    "Advanced JavaScript",
-    "React.js",
-    "Node.js",
-    "Database Design"
-  ];
-  
-  expertise: string[] = [
-    "Java Development",
-    "Problem Solving",
-    "Software Architecture",
-    "Team Collaboration"
-  ];
-  
-  goals2024: string[] = [
-    "Master Full-Stack Development",
-    "Contribute to Open Source",
-    "Build Innovative Projects",
-    "Mentor Junior Developers"
-  ];
-  
-  getMotivation(): string {
-    return "Code is poetry written in logic 🎨";
-  }
-}
-```
+I am a detail-oriented **QA Engineer** specializing in **Manual Testing**, experienced in validating web and mobile applications to ensure high-quality, stable, and user-friendly releases. I enjoy finding edge cases, reproducing tricky bugs, and improving product reliability through structured testing.
+
+---
+
+## 🛠️ QA Skills & Tools
+
+<div align="center">
+
+### 🧪 Testing Skills
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Testing Types:**
+- ✅ Manual Testing
+- ✅ Functional Testing
+- ✅ Regression Testing
+- ✅ Smoke & Sanity Testing
+- ✅ UI / UX Validation
+- ✅ API Testing (Basic)
+- ✅ Mobile App Testing (iOS & Android)
+- ✅ Live Activity Testing (iOS)
 
 </td>
-<td width="40%" align="center">
+<td width="50%" valign="top">
 
-### 🚀 Current Focus
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif" alt="Developer GIF" width="300"/>
-
-**📚 Learning Journey:**
-- 🌱 JavaScript Ecosystem
-- ⚛️ React Development
-- 🔧 Backend Technologies
-- 🗄️ Database Management
-
-**🎯 2024 Goals:**
-- ✅ Complete Full-Stack Course
-- 🔄 Build 5 Major Projects
-- 🤝 Open Source Contributions
-- 📱 Mobile App Development
+**Test Documentation:**
+- 📋 Test Case Writing
+- 📋 Test Scenarios
+- 📋 Test Plans
+- 📋 Bug Reports
+- 📋 Test Summary Reports
+- 📋 Defect Lifecycle Management
+- 📋 Requirements Analysis
+- 📋 Test Metrics & Reporting
 
 </td>
 </tr>
 </table>
 
-</div>
+### 🧰 Tools & Platforms
 
-<!-- Skills & Technologies Section -->
-<div align="center">
-
-## 🛠️ Technology Arsenal
-
-### Core Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,typescript,python,html,css&theme=dark" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" alt="Tools"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&theme=dark" alt="Frontend"/>
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql" alt="Backend"/>
-</p>
-
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws&theme=dark" alt="Tools"/>
-</p>
+**Key Tools:**
+- **Jira** - Bug Tracking & Test Management
+- **GitHub** - Test Evidence & Documentation
+- **Postman** - Basic API Testing
+- **Browser DevTools** - UI Inspection & Network Analysis
+- **Android Emulator / iOS Devices** - Mobile Testing
+- **Excel/Sheets** - Test Case Documentation
 
 </div>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-<!-- GitHub Statistics Dashboard -->
+## 🧩 QA Project Experience
+
+### 🔍 Live Activity – iOS App Testing
+**Application:** Food Delivery App (iOS)  
+**Feature:** Live Activity (Lock Screen)
+
+**Responsibilities:**
+- Status transition testing
+- Edge case validation
+- Bug reproduction and documentation
+- Jira ticket creation with detailed steps
+- Collaboration with development team
+
+**Key Issues Found:**
+- 🐛 Status mismatch (POB / READY)
+- 🐛 Live Activity not dismissing on cancel
+- 🐛 ETA briefly showing "00 mins"
+- 🐛 UI inconsistencies across different states
+
+---
+
+### 🛒 Marketplace Order Flow Testing
+
+**Testing Areas:**
+- Vendor status mapping validation
+- Portal vs App status sync testing
+- Arabic & English localization testing
+- Order lifecycle testing (Pending → Delivered)
+- Payment gateway integration
+- Push notification validation
+
+---
+
+### 🐞 Sample Bug Report Categories
+
 <div align="center">
 
-## 📊 GitHub Analytics Dashboard
+| Category | Examples |
+|----------|----------|
+| **Functional Issues** | Incorrect status messages, broken workflows |
+| **UI/UX Issues** | Live Activity not updating, layout problems |
+| **Localization** | Arabic/English translation errors |
+| **Integration** | API sync issues, payment failures |
+| **Performance** | Network recovery issues, slow loading |
+
+</div>
+
+---
+
+## 📈 GitHub QA Activity
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%">
 
-### 📈 Performance Stats
-<img src="https://github-readme-stats.vercel.app/api?username=lakmal-yapa-22&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Lakmal's%20GitHub%20Stats" alt="GitHub Stats" width="100%"/>
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=lakmal-yapa-22&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Lakmal's%20GitHub%20Stats" alt="GitHub Stats" width="100%"/>
 
 </td>
 <td width="50%">
 
-### 🔥 Streak Analytics
-<img src="https://streak-stats.demolab.com?user=lakmal-yapa-22&theme=radical&hide_border=true&fire=DD2727&dates=FFA500&currStreakLabel=FFA500&ring=DD2727&stroke=FFFFFFFF" alt="GitHub Streak" width="100%"/>
+### 🔥 Contribution Streak
+<img src="https://streak-stats.demolab.com?user=lakmal-yapa-22&theme=radical&hide_border=true&fire=DD2727&dates=FFA500&currStreakLabel=FFA500" alt="GitHub Streak" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-### 💻 Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakmal-yapa-22&layout=donut-vertical&theme=radical&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="400"/>
-
-### 📊 Detailed Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakmal-yapa-22&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Lakmal's%20Contribution%20Journey" width="100%"/>
+### 📊 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakmal-yapa-22&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Lakmal's%20QA%20Journey" width="100%"/>
 
 </div>
 
-<!-- Achievements Section -->
+---
+
+## 📚 Learning & Growth
+
 <div align="center">
+
+### 🎓 Certifications & Training
+
+| Status | Course/Certification | Focus Area |
+|--------|---------------------|------------|
+| ✅ | Manual Testing Fundamentals | Core QA Principles |
+| ✅ | Jira & Bug Lifecycle | Defect Management |
+| 🔄 | API Testing (Postman) | Backend Validation |
+| 🔄 | SQL for Testers | Database Testing |
+| 📋 | ISTQB Foundation | Industry Standard |
+| 📋 | Automation Testing | Future Goal |
+
+### 🚀 Current Focus 2024
+
+```typescript
+const qaEngineer = {
+  currentlyLearning: [
+    "Advanced API Testing",
+    "Performance Testing Basics",
+    "Test Automation Fundamentals",
+    "SQL & Database Testing"
+  ],
+  
+  improving: [
+    "Bug Report Writing",
+    "Test Case Optimization",
+    "Exploratory Testing",
+    "Mobile Testing Techniques"
+  ],
+  
+  goals: [
+    "ISTQB Certification",
+    "Contribute to QA Communities",
+    "Build QA Portfolio",
+    "Learn Selenium Basics"
+  ],
+  
+  motto: "Quality is never an accident; it is always the result of intelligent effort 🎯"
+};
+```
+
+</div>
+
+---
 
 ## 🏆 GitHub Achievements
 
-<p>
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lakmal-yapa-22&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Trophy Stats"/>
-</p>
-
 </div>
 
-<!-- Current Projects Section -->
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 Project Spotlight
-```yaml
-Current Projects:
-  - name: "E-Commerce Platform"
-    tech: ["Java", "Spring Boot", "MySQL"]
-    status: "In Development"
-    description: "Full-featured online shopping system"
-  
-  - name: "Task Management App"
-    tech: ["JavaScript", "React", "Node.js"]
-    status: "Planning Phase"
-    description: "Collaborative project management tool"
-  
-  - name: "Portfolio Website"
-    tech: ["HTML", "CSS", "JavaScript"]
-    status: "Completed"
-    description: "Personal showcase of projects"
-```
-
-</td>
-<td width="50%">
-
-### 📅 Development Timeline
-- **Q1 2024:** Java Fundamentals ✅
-- **Q2 2024:** JavaScript Mastery 🔄
-- **Q3 2024:** React Development 📋
-- **Q4 2024:** Full-Stack Projects 📋
-
-### 🎯 Next Milestones
-- [ ] Complete JavaScript Course
-- [ ] Build 3 React Projects
-- [ ] Contribute to Open Source
-- [ ] Launch Personal Website
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Learning Journey Section -->
-<div align="center">
-
-## 📚 Learning Journey
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lakmal-yapa-22&theme=highcontrast&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FFA500&currStreakLabel=FFA500&dates=FFFFFF&sideLabels=7C3AED&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Learning Streak" width="500"/>
-
-### 🎓 Certification Progress
-- ✅ **Java Fundamentals** - IJSE
-- 🔄 **JavaScript ES6+** - In Progress
-- 📋 **React Development** - Planned
-- 📋 **Full-Stack Development** - Planned
-
-</div>
-
-<!-- Connect Section -->
-<div align="center">
-
-## 🤝 Let's Connect & Collaborate
 
 <p>
   <a href="mailto:lakmal2001yapa@gmail.com">
@@ -237,35 +252,46 @@ Current Projects:
   </a>
 </p>
 
-### 💡 Open to Opportunities
-- 🤝 **Collaboration** on interesting projects
-- 👨‍💻 **Internship** opportunities
-- 📚 **Mentorship** and knowledge sharing
-- 🌟 **Open Source** contributions
+### 💡 Career Objective
+
+**"Quality is never an accident; it is always the result of intelligent effort."**
+
+**I'm actively seeking:**
+- 🧪 QA Engineer / Manual Tester roles
+- 📱 Mobile App Testing projects (iOS/Android)
+- 🤝 Collaborative QA teams
+- 🌐 Remote QA opportunities
+- 📚 Mentorship and knowledge sharing
+
+### 🎯 Open to Opportunities
+- **Full-time QA Positions**
+- **Contract Testing Projects**
+- **QA Internships**
+- **Open Source Testing Contributions**
 
 </div>
 
-<!-- Dynamic Quote -->
-<div align="center">
+---
 
 ## 💭 Daily Motivation
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-
-</div>
-
-<!-- Snake Animation -->
 <div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=footer&animation=twinkling"/>
@@ -274,8 +300,12 @@ Current Projects:
   <h2>🌟 Thanks for Visiting! 🌟</h2>
   <p>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-    <em><b>"The only way to do great work is to love what you do"</b></em>
+    <em><b>"Finding bugs today, ensuring quality tomorrow"</b></em>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
   </p>
-  <p><strong>Let's build something amazing together! 🚀</strong></p>
+  <p><strong>Let's build quality products together! 🚀</strong></p>
+  
+  ---
+  
+  <sub>💙 Open to collaborations and QA opportunities | 📧 lakmal2001yapa@gmail.com</sub>
 </div>
